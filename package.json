@@ -12,7 +12,7 @@
     "connect": "^3.2.0",
     "file-stream-rotator": "0.0.7",
     "js-yaml": "^3.13.1",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.21",
     "morgan": "^1.9.1",
     "nedb": "^1.8.0",
     "node-uuid": "^1.4.7",
